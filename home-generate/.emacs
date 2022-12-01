@@ -28,7 +28,7 @@
         (fsbot-data-browser . "melpa-stable")
         (git-commit . "nongnu")
         (groovy-mode . "melpa-stable")
-        (ivy . "melpa-stable")
+        (ivy . "gnu")
         (kotlin-mode . "nongnu")
         (magit . "nongnu")
         (magit-section . "nongnu")
