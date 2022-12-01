@@ -42,7 +42,7 @@
         (use-package . "gnu")
         (webpaste . "nongnu")
         (with-editor . "nongnu")
-        (yasnippet . "melpa-stable")
+        (yasnippet . "gnu")
       ))
 
 (setq my-pkgs (mapcar 'car package-pinned-packages))
