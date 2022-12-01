@@ -46,6 +46,7 @@
       ))
 
 (setq my-pkgs (mapcar 'car package-pinned-packages))
+(setq package-pinned-packages nil)
 
 (require 'package)
 (when (seq-remove 'package-installed-p my-pkgs)
