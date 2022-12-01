@@ -18,6 +18,7 @@
 
 (setq package-pinned-packages
       '(
+        (counsel . "gnu")
         (dart-mode . "nongnu")
         (dash . "gnu")
         (evil . "nongnu")
