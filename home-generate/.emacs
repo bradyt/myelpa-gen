@@ -35,6 +35,7 @@
         (markdown-mode . "nongnu")
         (nix-mode . "nongnu")
         (ordinal . "melpa-stable")
+        (pdf-tools . "nongnu")
         (quelpa . "melpa-stable")
         (request . "nongnu")
         (rust-mode . "nongnu")
