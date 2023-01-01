@@ -10,3 +10,6 @@ batch-test:
 clean:
 	(cd home-generate; git clean -dffx)
 	(cd home-test; git clean -dffx)
+
+docker:
+	docker build . -t this && docker run --rm -it -v $(shell pwd)/myelpa/:/myelpa/ this
