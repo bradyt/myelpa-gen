@@ -41,6 +41,7 @@
         (rust-mode . "nongnu")
         (transient . "gnu")
         (use-package . "gnu")
+        (vertico . "gnu")
         (webpaste . "nongnu")
         (with-editor . "nongnu")
         (yasnippet . "gnu")
